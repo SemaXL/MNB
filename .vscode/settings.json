@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/*.rpyc": true,
+        "**/*.rpa": true,
+        "**/*.rpymc": true,
+        "**/cache/": true
+    },
+    "renpyWarp.sdkPath": "/home/sema/.var/app/com.vscodium.codium/config/VSCodium/User/globalStorage/paisleysoftworks.renpywarp/file-downloader-downloads/8.4.1",
+    "renpyWarp.renpyExtensionsEnabled": "Enabled"
+}
